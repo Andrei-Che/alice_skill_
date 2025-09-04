@@ -14,17 +14,6 @@
       pip install -r requirements.txt
       ```
 
-   3. **Настройка переменных окружения**:
-      - Создайте файл `.env` в корне проекта:
-        ```plaintext
-        AWS_ACCESS_KEY_ID=your_access_key_here
-        AWS_SECRET_ACCESS_KEY=your_secret_key_here
-        ```
-      - Или задайте переменные окружения вручную:
-        ```bash
-        export AWS_ACCESS_KEY_ID=your_access_key_here
-        export AWS_SECRET_ACCESS_KEY=your_secret_key_here
-        ```
       - Убедитесь, что файл `de421.bsp` загружен в ваш бакет в Yandex Cloud Storage.
 
    4. **Развертывание**:
