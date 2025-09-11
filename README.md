@@ -2,7 +2,7 @@
 
 [![Лицензия: MIT](https://img.shields.io/badge/Лицензия-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
-[![Звёзды](https://img.shields.io/github/stars/yourusername/wine-calendar-alice?style=social)](https://github.com/yourusername/wine-calendar-alice)
+[![Звёзды](https://img.shields.io/github/stars/Andrei-Che/wine-calendar-alice?style=social)](https://github.com/Andrei-Che/alice_skill_)
 
 Этот репозиторий содержит навык для Яндекс Алисы, реализующий биодинамический винный календарь, основанный на работах Марии Тун. Навык подсказывает, подходит ли день для дегустации вина, ссылаясь на положение Луны, и объясняет рекомендации. Включает код для расчёта лунных позиций, интеграцию с API Алисы и документацию.
 
