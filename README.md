@@ -79,12 +79,12 @@
 
 ## Структура кода
 ```
-wine-calendar-alice/
-├── app.py              # Основное приложение Flask для вебхука Алисы
+alice_skill_/
+├── README.md           # Этот файл
 ├── lunar_calc.py       # Расчёт положения Луны
 ├── dialogs.json        # Пример скриптов диалогов для Алисы
 ├── requirements.txt    # Зависимости
-├── README.md           # Этот файл
+├── README.md           
 └── tests/              # Тесты (например, test_lunar.py)
 ```
 
